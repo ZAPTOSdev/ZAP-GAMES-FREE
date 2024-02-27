@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto Condensed", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.zap__background {
+    width: auto;
+    margin-left: 12rem;
+}
+
+.background__image {
+    background-color: rgb(36, 36, 36);
+}
+
+h1 {
+    text-align: center;
+    padding: 3rem;
+}
+
+h2 {
+    text-align: center;
+    padding: 2rem;
+}
+
+video{
+    padding: 3rem;
+    width: 1150px;
+    height: 1000px;
+    margin-left: 7rem;
+}
+
+img {
+    border-radius: 4rem;
+    padding: 2rem;
+    width: 250px;
+    height: 250px;
+}
+
+a {
+    color: rgb(19, 113, 255);
+    text-decoration: none;
+    margin-left: 15px;
+}
+
+p {
+    color: #fff;
+    margin-left: 27px;
+}
+
+.p__color {
+    color: #000;
+}
+
+i {
+    color: rgb(0, 252, 34);
+    margin-left: 30px;
+    width: 4px;
+    height: 4px;
+}
